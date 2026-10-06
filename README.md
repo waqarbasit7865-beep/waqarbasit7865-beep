@@ -1,71 +1,96 @@
-<h1 align="center">Hi, I'm Waqar Basit 👋</h1>
-<h3 align="center">Product Designer (UI/UX) · SaaS, Fintech & AI Products</h3>
+<h1 align="center">Waqar Basit</h1>
+<h3 align="center">Product Designer (UI/UX) — SaaS, Fintech & AI Products</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/waqar-basit-607000168/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.behance.net/waqarbasit"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/></a>
-  <a href="https://www.upwork.com/freelancers/~0134cfb88d2b576ba0"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/></a>
-  <a href="https://contra.com/waqar_basit_tj4xj2jx"><img src="https://img.shields.io/badge/Contra-000000?style=for-the-badge&logoColor=white" alt="Contra"/></a>
-  <a href="mailto:waqarbasit7865@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+I turn complex, data-heavy workflows into clear, usable products.<br/>
+<b>5+ years</b> designing with teams in the <b>UAE, UK & US</b> — from discovery to developer handoff.
+</p>
+
+<p align="center">
+  <a href="https://www.behance.net/waqarbasit"><img src="https://img.shields.io/badge/Portfolio-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance portfolio"/></a>
+  <a href="https://www.linkedin.com/in/waqar-basit-607000168/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.upwork.com/freelancers/~0134cfb88d2b576ba0"><img src="https://img.shields.io/badge/Upwork-Hire_me-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/></a>
+  <a href="https://contra.com/waqar_basit_tj4xj2jx"><img src="https://img.shields.io/badge/Contra-Hire_me-000000?style=for-the-badge" alt="Contra"/></a>
+  <a href="mailto:waqarbasit7865@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open_to-Dubai_%7C_Remote-2F5BFF?style=flat-square" alt="Open to Dubai or Remote"/>
+  <img src="https://img.shields.io/badge/Available_for-Full--time_%26_Freelance-2F5BFF?style=flat-square" alt="Available for full-time and freelance"/>
 </p>
 
 ---
 
-### 🎯 About me
+## What I do
 
-I design **SaaS dashboards, web apps and mobile products** — turning complex, data-heavy workflows into clear, usable interfaces. 8+ years in design, working with teams in the **UAE, UK and US**, from discovery through developer handoff.
+| | |
+|---|---|
+| **Product & UX** | Discovery, user flows, information architecture, wireframes, interactive prototypes |
+| **UI & Systems** | High-fidelity UI, Figma design systems, reusable components, responsive web & mobile |
+| **Complex products** | SaaS dashboards, fintech tools, data-heavy screens, AI-powered features |
+| **Delivery** | Developer-ready handoff, implementation reviews, close work with founders & engineers |
 
-- 📍 Lahore, Pakistan — **open to Dubai & remote roles**
-- 💼 Currently: Independent Product Designer (SaaS, fintech & e-commerce clients)
-- 🧩 Focus: design systems, user flows, information architecture, responsive UI
-- 🤖 Interested in: AI UX — where AI belongs in a product, and where a button still wins
-- 🛠️ Building: my portfolio site in React + TypeScript → [waqarbasit-portfolio](https://github.com/waqarbasit7865-beep/waqarbasit-portfolio)
+## Selected work
 
-### 🧭 How I work
+- **UCL Energy Group (UK)** — Led UI/UX for the live website: research, IA, responsive UI, design system and developer handoff.
+- **SaaS dashboards & web apps** — Simplified data-heavy screens for founders and product teams across the US, UK and UAE.
+- **E-commerce UX (StarPrints Mfg., USA)** — Improved storefront layouts and the product-customization journey.
+- **Portfolio site** — React + TypeScript + GSAP, built from my own design → [`waqarbasit-portfolio`](https://github.com/waqarbasit7865-beep/waqarbasit-portfolio)
 
-1. **Map the workflow** — user flows and IA before any pixels
-2. **Shape it in low fidelity** — wireframes to test hierarchy fast
-3. **Prototype the interaction** — make it tangible, catch edge cases early
-4. **Systemise** — reusable Figma components and Auto Layout design systems
-5. **Hand off cleanly** — developer-ready specs, built to ship
+👉 Full case studies on **[Behance](https://www.behance.net/waqarbasit)**
 
-### 🛠️ Tools & skills
+## How I work
+
+```
+Map the workflow  →  Low-fi wireframes  →  Interactive prototype  →  Design system  →  Clean handoff
+```
+
+I start with the user's job and the business goal, design the simplest flow that solves it, then systemise it so every new screen ships faster and stays consistent.
+
+## Toolkit
 
 <p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Webflow-146EF5?style=flat-square&logo=webflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Midjourney-000000?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer"/>
+  <img src="https://img.shields.io/badge/Webflow-146EF5?style=flat-square&logo=webflow&logoColor=white" alt="Webflow"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Photoshop"/>
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" alt="Illustrator"/>
+  <img src="https://img.shields.io/badge/Figma_AI-000000?style=flat-square&logo=figma&logoColor=white" alt="Figma AI"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square" alt="Cursor"/>
+  <img src="https://img.shields.io/badge/Midjourney-000000?style=flat-square" alt="Midjourney"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
 </p>
 
-**UX:** User research · Information architecture · User flows · Wireframing · Prototyping · Dashboard design · Usability
-**UI:** Design systems · Component libraries · Visual hierarchy · Responsive web & mobile UI · Developer handoff
+<sub>Design-first, code-aware — I speak the language of the developers I hand off to.</sub>
 
-### 💼 Experience
+## Experience
 
 | Role | Company | Period |
 |---|---|---|
-| Independent Product Designer (UI/UX) | Self-employed · US, UK & UAE clients | Nov 2024 – Present |
-| UI/UX & Visual Designer | StarPrints Mfg. (USA, remote) | Mar 2025 – Oct 2026 |
-| Lead UI/UX & Visual Designer | SHAHPER Media (UK, remote) | Nov 2024 – Dec 2025 |
-| UI/UX & Digital Designer | Lucky Star Investment SICAV SA (UAE, remote) | Sep 2023 – Oct 2024 |
-| UI/UX & Visual Designer | GetFirstDigital (UAE) | May 2022 – Jul 2023 |
-| Senior Graphic Designer | 360 Advertising Company (Dubai) | Dec 2020 – Mar 2022 |
-| Graphic & Digital Designer | XS4 Financial Management (Lahore) | Aug 2017 – Dec 2019 |
+| **Independent Product Designer (UI/UX)** | Self-employed · US, UK & UAE clients | 2024 – Present |
+| UI/UX & Visual Designer | StarPrints Mfg. · USA (remote) | 2025 – 2026 |
+| Lead UI/UX & Visual Designer | SHAHPER Media · UK (remote) | 2024 – 2025 |
+| UI/UX & Digital Designer | Lucky Star Investment SICAV SA · UAE (remote) | 2023 – 2024 |
+| UI/UX & Visual Designer | GetFirstDigital · UAE | 2022 – 2023 |
+| Senior Graphic Designer | 360 Advertising Company · Dubai | 2020 – 2022 |
 
-**Selected work:** UCL Energy Group (UK) — led UI/UX for the live website: research, IA, responsive UI, design system and developer handoff.
+<sub>Earlier: Graphic & Digital Designer, XS4 Financial Management (2017–2019) · <b>BS Graphic Design (UI/UX focus)</b>, University of the Punjab</sub>
 
-### 🎓 Education
+## Currently
 
-- **BS Graphic Design (UI/UX focus)** — University of the Punjab, 2016–2020
+- 🔭 Designing SaaS and fintech products for international clients
+- 🤖 Exploring AI UX — when a prompt helps, and when a button or filter still wins
+- ✍️ Writing about product design on [LinkedIn](https://www.linkedin.com/in/waqar-basit-607000168/)
 
 ---
 
-<p align="center"><i>"AI can give you 20 UI concepts. It still needs someone to ask: does this actually solve the user's problem?"</i></p>
-<p align="center">📫 Open to product design roles & freelance projects — <a href="mailto:waqarbasit7865@gmail.com">waqarbasit7865@gmail.com</a></p>
+<p align="center">
+<b>Hiring a product designer or have a project in mind?</b><br/>
+<a href="mailto:waqarbasit7865@gmail.com">waqarbasit7865@gmail.com</a> · <a href="https://www.linkedin.com/in/waqar-basit-607000168/">LinkedIn</a> · <a href="https://www.behance.net/waqarbasit">Behance</a>
+</p>
