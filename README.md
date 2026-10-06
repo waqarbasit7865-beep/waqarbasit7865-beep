@@ -1,9 +1,9 @@
 <h1 align="center">Waqar Basit</h1>
-<h3 align="center">Product Designer (UI/UX) — SaaS, Fintech & AI Products</h3>
+<h3 align="center">UI/UX & Product Designer</h3>
 
 <p align="center">
-I turn complex, data-heavy workflows into clear, usable products.<br/>
-<b>5+ years</b> designing with teams in the <b>UAE, UK & US</b> — from discovery to developer handoff.
+I design simple, easy-to-use web and mobile products — from first idea to developer-ready screens.<br/>
+<b>5+ years</b> working with clients and teams in the <b>UAE, UK & US</b>. Based in Pakistan, working with teams worldwide.
 </p>
 
 <p align="center">
@@ -15,8 +15,9 @@ I turn complex, data-heavy workflows into clear, usable products.<br/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open_to-Dubai_%7C_Remote-2F5BFF?style=flat-square" alt="Open to Dubai or Remote"/>
-  <img src="https://img.shields.io/badge/Available_for-Full--time_%26_Freelance-2F5BFF?style=flat-square" alt="Available for full-time and freelance"/>
+  <img src="https://img.shields.io/badge/Open_to_work-Worldwide-2F5BFF?style=flat-square" alt="Open to work worldwide"/>
+  <img src="https://img.shields.io/badge/Remote_%7C_On--site_%7C_Relocation-2F5BFF?style=flat-square" alt="Remote, on-site or relocation"/>
+  <img src="https://img.shields.io/badge/Full--time_%26_Freelance-2F5BFF?style=flat-square" alt="Full-time and freelance"/>
 </p>
 
 ---
@@ -84,7 +85,8 @@ I start with the user's job and the business goal, design the simplest flow that
 
 ## Currently
 
-- 🔭 Designing SaaS and fintech products for international clients
+- 🔭 Designing web, mobile and SaaS products for clients around the world
+- 🌍 Open to full-time and freelance roles worldwide — remote, on-site or relocation
 - 🤖 Exploring AI UX — when a prompt helps, and when a button or filter still wins
 - ✍️ Writing about product design on [LinkedIn](https://www.linkedin.com/in/waqar-basit-607000168/)
 
