@@ -3,7 +3,7 @@
 
 <p align="center">
 I design simple, easy-to-use web and mobile products — from first idea to developer-ready screens.<br/>
-<b>5+ years</b> working with clients and teams in the <b>UAE, UK & US</b>. Based in Pakistan, working with teams worldwide.
+<b>5+ years</b> working with clients and teams in the <b>UAE, UK & US</b>. Based in Pakistan, working remotely with clients worldwide.
 </p>
 
 <p align="center">
@@ -15,9 +15,8 @@ I design simple, easy-to-use web and mobile products — from first idea to deve
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open_to_work-Worldwide-2F5BFF?style=flat-square" alt="Open to work worldwide"/>
-  <img src="https://img.shields.io/badge/Remote_%7C_On--site_%7C_Relocation-2F5BFF?style=flat-square" alt="Remote, on-site or relocation"/>
-  <img src="https://img.shields.io/badge/Full--time_%26_Freelance-2F5BFF?style=flat-square" alt="Full-time and freelance"/>
+  <img src="https://img.shields.io/badge/Available_for-Remote_Freelance-2F5BFF?style=flat-square" alt="Available for remote freelance work"/>
+  <img src="https://img.shields.io/badge/Clients-Worldwide-2F5BFF?style=flat-square" alt="Working with clients worldwide"/>
 </p>
 
 ---
@@ -86,13 +85,13 @@ I start with the user's job and the business goal, design the simplest flow that
 ## Currently
 
 - 🔭 Designing web, mobile and SaaS products for clients around the world
-- 🌍 Open to full-time and freelance roles worldwide — remote, on-site or relocation
+- 🌍 Available for remote freelance projects with clients anywhere in the world
 - 🤖 Exploring AI UX — when a prompt helps, and when a button or filter still wins
 - ✍️ Writing about product design on [LinkedIn](https://www.linkedin.com/in/waqar-basit-607000168/)
 
 ---
 
 <p align="center">
-<b>Hiring a product designer or have a project in mind?</b><br/>
+<b>Have a project in mind? Let's work together — remotely, from anywhere.</b><br/>
 <a href="mailto:waqarbasit7865@gmail.com">waqarbasit7865@gmail.com</a> · <a href="https://www.linkedin.com/in/waqar-basit-607000168/">LinkedIn</a> · <a href="https://www.behance.net/waqarbasit">Behance</a>
 </p>
